@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+img {
+    height: 40px;
+    border-radius: 50%;
+}
+
+#top-div img {
+    float: left;
+}
+
+
+.custom-nav li {
+    display: inline-block;
+    font-weight: bold;
+    padding: 10px;
+    padding-right: 10px;
+    margin-bottom: 50px;
+    font-size: 1.5em;
+}
+
+.custom-nav a,
+.custom-nav a:hover {
+    text-decoration: none;
+    color: grey;
+}
+
